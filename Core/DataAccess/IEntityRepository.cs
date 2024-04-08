@@ -6,8 +6,8 @@ using System.Text;
 using System.Threading.Tasks;
 using Core.Entities;
 
-namespace Core.EntityFramework
-{//generic constraint
+namespace Core.DataAcecess
+    {//generic constraint
     //ALTTAKI KODDA ANLATILMAK İSTENEN REFERANS OLARAK KULLANILABİLECEK DEĞERLERİ IENTITY
     //VE ONUN ALT KATMANINDAKİ SINIFLAR HARİCİ REFERANS KULLANILMASINI İSTEMEMİZDEN DOLAYI
     // WHERE KOŞULU KULLANIYORUZ 

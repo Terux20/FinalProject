@@ -1,4 +1,4 @@
-﻿using Core.EntityFramework;
+﻿using Core.DataAcecess;
 using Entities.Concrete;
 using Entities.DTOs;
 using System;
