@@ -56,7 +56,7 @@ namespace Business.Concrete
             if (DateTime.Now.Hour == 22)
             { 
                 return new ErrorDataResult<List<Product>>(Messages.MaintenceTime);
-            }
+            } 
             return new SuccessDataResult<List<Product>>(_productDal.GetAll());
 
 
