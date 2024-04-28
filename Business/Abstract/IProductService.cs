@@ -19,6 +19,6 @@ namespace Business.Abstract
         IDataResult<List<ProductDetailDto>> GetProductDetalils();
         IResult Add(Product product);
         IDataResult<Product> GetById(int id);
-      //  IResult AddTransactionalTest(Product product);
+        //  IResult AddTransactionalTest(Product product);
     }
 }

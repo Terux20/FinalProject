@@ -7,7 +7,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Core.Extentions
+namespace Core.Extensions
 {
     public static class ServiceCollectionExtensions
     {

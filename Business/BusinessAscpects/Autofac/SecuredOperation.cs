@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Core.Extentions;
+using Core.Extensions;
 using Core.Utilities.IoC;
 namespace Business.BusinessAscpects.Autofac
 {
